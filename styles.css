@@ -3,3 +3,26 @@
 /* Note: an asteroid image is included in this repo.
 Feel free to use it if you like. */
 
+svg {
+
+  border-radius: 5px;
+  background-image: url(stars.jpg);
+}
+
+.player{
+  fill: yellow;
+}
+
+.scoreboard {
+  float: right;
+  background-color: white;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.asteroid {
+}
+
+body {
+  background-color: grey;
+}
